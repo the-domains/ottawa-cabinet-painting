@@ -1,0 +1,28 @@
+name: Ottawa Cabinet Painting
+favicon: null
+layout_spectrum: 0.8310730012599379
+typography_spectrum: 0.4404432908631861
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.17590860719792545
+  lightness: 0.6580439901445061
+  saturation: 0.42445688555017114
+  rhythmicContrast: 0.08188819070346653
+purpose: []
